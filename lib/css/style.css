@@ -1,0 +1,27 @@
+#map {
+    height: 400px;
+    width: 600px;
+    background-color: #bbb;
+    border-radius: 100px;
+    display: inline-block; 
+} 
+
+@media(max-width: 600px) {
+    #map {
+        height: 250px;
+        width: 250px;
+        border-radius: 70px;
+    }
+}
+
+h1{
+    font-family: Noto Sans JP;
+}
+
+p {
+    font-family: 'Lemonada', cursive;
+}
+body {
+    background: silver;
+    text-align: center;
+  }
