@@ -213,3 +213,44 @@
         "incident_address": "300 BLOCK OF HUDSON ST"
     }]
 }
+
+
+
+{
+    "count": 1,
+    "overflow": false,
+    "next": null,
+    "previous": null,
+    "results": [{
+        "relevance": 1.0,
+        "id": "YweWS3HXabBfhPZURk",
+        "title": "San Francisco 49ers vs Seattle Seahawks",
+        "description": "",
+        "category": "sports",
+        "labels": ["american-football", "nfl", "sport"],
+        "rank": 87,
+        "local_rank": 100,
+        "aviation_rank": 67,
+        "phq_attendance": 69161,
+        "entities": [{
+            "type": "venue",
+            "name": "CenturyLink Field",
+            "entity_id": "CQ3tULqzn8qxUdQPprTTA4",
+            "formatted_address": "800 Occidental Avenue South\nSeattle, WA 98134\nUnited States of America"
+        }],
+        "duration": 11340,
+        "start": "2019-12-30T01:20:00Z",
+        "end": "2019-12-30T04:29:00Z",
+        "updated": "2020-06-04T04:50:59Z",
+        "first_seen": "2019-04-28T00:04:40Z",
+        "timezone": "America/Los_Angeles",
+        "location": [-122.331639, 47.595152],
+        "scope": "locality",
+        "country": "US",
+        "place_hierarchies": [
+            ["6295630", "6255149", "6252001", "5815135", "5799783", "5809844"]
+        ],
+        "state": "active",
+        "brand_safe": true
+    }]
+}
