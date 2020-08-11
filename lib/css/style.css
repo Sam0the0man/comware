@@ -1,27 +1,78 @@
 #map {
-    height: 400px;
-    width: 600px;
+    height: 55vh;
+    width: 50vw;
     background-color: #bbb;
     border-radius: 100px;
-    display: inline-block; 
-} 
+    display: inline-block;
+}
 
 @media(max-width: 600px) {
     #map {
-        height: 250px;
-        width: 250px;
+        height: 70vw;
+        width: 95vw;
         border-radius: 70px;
     }
 }
 
-h1{
-    font-family: Noto Sans JP;
+h1 {
+    font-family: 'Noto Sans JP';
+    margin-top: 15px;
+    
+}
+
+#temp {
+    font-family: 'Crimson Text', serif;
+    font-size: 4.5vh;
 }
 
 p {
     font-family: 'Lemonada', cursive;
 }
+
 body {
-    background: silver;
+    /* background: turquoise; */
     text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+#title {
+    margin: 0px;
+    padding: -50px;
+}
+#tagline {
+    color: rgb(110, 40, 40);
+}
+
+html, body {
+  height: 100%;
+  animation: myanimation 20s infinite;
+  /* overflow: hidden; */
+}
+#news {
+    margin-left: 25vw;
+    margin-bottom: 20vh;
+    width: 50vw;
+    height: 20vh;
+    text-align: center;
+    overflow: scroll;
+}
+/* .mydiv {
+  width:100%;
+  height:100%;
+  color:black;
+  font-weight:bold;
+} */
+@keyframes myanimation {
+  20% {background-color: turquoise;}   
+  40%{background-color:coral;}
+  60%{background-color:limegreen;}
+  80%{background-color:red;}
+  100% {background-color: palevioletred;}
+}
+@keyframes textAnimation {
+    20% {color: palevioletred;}   
+    40%{color:yellowgreen;}
+    60%{color:red;}
+    80%{color:coral;}
+    100% {color: turquoise;}
   }
