@@ -8,14 +8,15 @@
   <link rel="shortcut icon" type="image/x-icon" href="assets/Comware.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Lemonada&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,600;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Lemonada&display=swap" rel="stylesheet">
   <link type="text/css" rel="stylesheet" href="https://api.mqcdn.com/sdk/mapquest-js/v1.3.2/mapquest.css" />
   <script src="lib/js/script.js" defer></script>
   <script src="lib/js/api.js" defer></script>
   <script src="lib/js/data.js" defer></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Lemonada&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,600;1,700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Lemonada&display=swap" rel="stylesheet">
+  
 </head>
 
 <body>
@@ -27,8 +28,24 @@
   <h2 id="temp" class="margin"></h2>
   <img id="weather">
   </div>
+  <!-- <div class="form-container">
+    <div class="role-selector"> -->
+      <!-- Move input outside of .switch label -->
+     <!-- <input type="checkbox" id="role-checkbox">
+      <span>Crime</span> -->
+      <!-- Add for attribute that matches id of check input -->
+      <!-- <label class="switch" for="role-checkbox">
+                  <span class="slider round"></span>
+                </label>
+      <span>Restaurants</span>
+    </div> -->
+  <!-- <span>Crime</span><label class="switch">
+    <input type="checkbox">
+    <span class="slider round"></span>
+  </label><span>Restaurants</span> -->
   <div id="map">Turn on Location Services to view map</div>
-  <h2 class="margin">News</h2>
+  <h2 class="margin" id="headline">News</h2>
   <div id="news" class="margin">
   </div>
 </body>
+</html>
