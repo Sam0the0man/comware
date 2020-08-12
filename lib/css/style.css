@@ -12,6 +12,7 @@
         width: 95vw;
         border-radius: 70px;
     }
+
     #news {
         padding: 0px;
         margin: 0px;
@@ -35,6 +36,7 @@ h1 {
     /* float: left; */
     text-align: center;
 }
+
 #openWeatherMap {
     overflow: auto;
     position: relative;
@@ -42,6 +44,7 @@ h1 {
     left: 44vw; */
     vertical-align: middle;
 }
+
 p {
     font-family: 'Lemonada', cursive;
 }
@@ -52,103 +55,154 @@ body {
     margin: 0px;
     padding: 0px;
 }
+
 #title {
     margin: 0px;
     padding: -50px;
 }
+
 #tagline {
-    color: rgb(110, 40, 40);
+    animation: textAnimation 20s infinite;
+    animation-direction: alternate;
     padding: 0px;
     margin: 0px;
 }
+
 .margin {
     margin: 0px;
 }
+
 html, body {
-  height: 100%;
-  animation: animation 20s infinite;
-  animation-direction: alternate;
-  /* overflow: hidden; */
+    height: 100%;
+    animation: animation 20s infinite;
+    animation-direction: alternate;
+    /* overflow: hidden; */
 }
+
 #news {
     margin-left: 25vw;
     margin-bottom: 10vh;
     width: 50vw;
     height: 20vh;
-    overflow: scroll; 
+    overflow: scroll;
     overflow-x: hidden;
-    
+
     text-decoration: none;
 }
 
-@media(max-width: 600px) {
-    
-}
-
 #news::-webkit-scrollbar {
-    width: 2px;  /* Remove scrollbar space */
+    width: 2px;
+    /* Remove scrollbar space */
     /* background: transparent;  Optional: just make scrollbar invisible */
 }
+
 #news::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     -webkit-border-radius: 2px;
     border-radius: 2px;
 }
+
 #news::-webkit-scrollbar-thumb {
     -webkit-border-radius: 2px;
-   border-radius: 2px;
-   background: #41617D; 
-   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5) 
+    border-radius: 2px;
+    background: #41617D;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5)
 }
+
 body::-webkit-scrollbar {
-    width: 10px;  /* Remove scrollbar space */
+    width: 10px;
+    /* Remove scrollbar space */
     /* background: transparent;  Optional: just make scrollbar invisible */
 }
+
 body::-webkit-scrollbar-track {
-    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
     -webkit-border-radius: 10px;
     border-radius: 10px;
 }
+
 body::-webkit-scrollbar-thumb {
     -webkit-border-radius: 10px;
-   border-radius: 10px;
-   background: #41617D; 
-   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5) 
+    border-radius: 10px;
+    background: #4C5D57;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5)
 }
+
 @keyframes animation {
-    0% {background-color: #BBF4C1;}
-    20% {background-color: #99CAA4;}
-    40% {background-color: #96C7A1;}   
-    60%{background-color:#66917B;}
-    80%{background-color:#536F65;}
-    100%{background-color:#4C5D57;}
+    0% {
+        background-color: #BBF4C1;
+    }
+
+    20% {
+        background-color: #99CAA4;
+    }
+
+    40% {
+        background-color: #96C7A1;
+    }
+
+    60% {
+        background-color: #66917B;
+    }
+
+    80% {
+        background-color: #536F65;
+    }
+
+    100% {
+        background-color: #4C5D57;
+    }
+
     /* 100% {background-color: palevioletred;} */
 }
 
-@keyframes myanimation {
-    0% {background-color: gainsboro;}
-    20% {background-color: turquoise;}   
-    40%{background-color:coral;}
-    60%{background-color:limegreen;}
-    80%{background-color:red;}
-    100% {background-color: palevioletred;}
-}
-@keyframes textAnimation {
-    20% {color: palevioletred;}   
-    40%{color:yellowgreen;}
-    60%{color:red;} 
-    80%{color:coral;}
-    100% {color: turquoise;}
-  }
-  a:link {
-      color: black;
-      font-size: 15px;
-      text-decoration: none;
-  }
-  a:visited {
-      color: black;
-      text-decoration: none;
-  }
-  a:hover { 
-      text-decoration: underline;
+@keyframes scrollAnimation {
+    100% {
+        background: #BBF4C1;
     }
+
+    80% {
+        background: #99CAA4;
+    }
+
+    60% {
+        background: #96C7A1;
+    }
+
+    40% {
+        background: #66917B;
+    }
+
+    20% {
+        background: #536F65;
+    }
+
+    0% {
+        background: #4C5D57;
+    }
+}
+
+@keyframes textAnimation {
+    0% {
+        color: rgb(110, 40, 40);
+    }
+
+    100% {
+        color: rgb(166, 89, 85);
+    }
+}
+
+a:link {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
