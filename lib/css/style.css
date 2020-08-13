@@ -85,11 +85,13 @@
         height: 25vh;
         overflow: scroll;
         overflow-x: hidden;
-        background-color: white;
+        background-color: rgb(172, 172, 172);
         border-radius: 10px;
         text-decoration: none;
     }
-
+    a::after {
+        margin-bottom: 5px;
+    }
     #headline {
         font-family: thunder;
         color: #25dede;
@@ -304,6 +306,10 @@
         font-family: 'Lemonada', cursive;
     }
 
+    a::after {
+        margin-bottom: 5px;
+    }
+    
     body {
         /* background: turquoise; */
         text-align: center;
@@ -345,7 +351,7 @@
         height: 25vh;
         overflow: scroll;
         overflow-x: hidden;
-        background-color: #000;
+        background-color: rgb(172, 172,172);
         border-radius: 10px;
         text-decoration: none;
     }
