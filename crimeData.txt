@@ -264,8 +264,7 @@ https: //api.crimeometer.com/v1/incidents/raw-data?lat=40.6465168&lon=-73.899476
     0: 43: 36.934 Z & datetime_end = 2020 - 08 - 11 T10: 43: 36.934 Z & page = 1 "
 
 
-Weather json
-{
+Weather json {
     "coord": {
         "lon": -122.08,
         "lat": 37.39
@@ -306,4 +305,311 @@ Weather json
     "id": 420006353,
     "name": "Mountain View",
     "cod": 200
+}
+
+
+{
+    "status": "ok",
+    "news": [{
+        "id": "7572669d-493b-442d-9398-3ae3669252cb",
+        "title": "Review: Rumer sets new standards with Hugh Prestwood catalog",
+        "description": "The combination of Rumer's crystalline voice and Hugh Prestwood's songs results in some breathtaking, deeply moving music on \"Nashville Tears,\" the Pakistan-born, British singer's interpretation of the Texas-born, New York-based songwriter's catalog...",
+        "url": "https:\/\/abcnews.go.com\/Entertainment\/wireStory\/review-rumer-sets-standards-hugh-prestwood-catalog-72331815",
+        "author": "go",
+        "image": "https:\/\/s.abcnews.com\/images\/Entertainment\/WireAP_b4d146b3ac8e4f7fbf0c8d67c03c9965_16x9_992.jpg",
+        "language": "en",
+        "category": ["entertainment"],
+        "published": "2020-08-12 17:56:50 +0000"
+    }, {
+        "id": "8fea42b1-8f94-4516-86e8-5ccf05a741e5",
+        "title": "IIT Ropar conducted online lecture to commemorate 150th birth year of Mahatma Gandhi - Times of India",
+        "description": "Education News: ROPAR: IIT Ropar with its partner university The State University of New York, Binghamton (SUNY) conducted an online lecture on the teachings of Mahat....",
+        "url": "https:\/\/timesofindia.indiatimes.com\/home\/education\/news\/iit-ropar-conducted-online-lecture-to-commemorate-150th-birth-year-of-mahatma-gandhi\/articleshow\/77508021.cms",
+        "author": "Bharat Khanna",
+        "image": "https:\/\/static.toiimg.com\/thumb\/msid-77508004,width-1070,height-580,imgsize-1333889,resizemode-75,overlay-toi_sw,pt-32,y_pad-40\/photo.jpg",
+        "language": "en",
+        "category": ["education"],
+        "published": "2020-08-12 17:56:21 +0000"
+    }, {
+        "id": "7ed7d2e6-816a-45f3-9d84-76b6b665d6b9",
+        "title": "Only 79% of Americans Considering Getting Coronavirus Vaccine According to ValuePenguin.com Survey \u2013 Company Announcement",
+        "description": "NEW YORK, Aug. 12, 2020 \/PRNewswire\/ -- As the race to find a vaccine for the coronavirus continues, and news out of Russia hints at a possible COVID-19 vaccination win, ValuePenguin wanted to know how the American people view vaccinations and whether or not they'd get one if it became available....",
+        "url": "https:\/\/markets.ft.com\/data\/announce\/detail?dockey=600-202008121352PR_NEWS_USPRX____CL90563-1",
+        "author": "PR Newswire",
+        "image": "None",
+        "language": "en",
+        "category": ["hague", "stockholm"],
+        "published": "2020-08-12 17:52:00 +0000"
+    }, {
+        "id": "dfbedb34-ff75-4c65-90bd-cf956bab3318",
+        "title": "Nature is Calling! CheapOair Recommends their Top National Parks Picks to Safely Visit \u2013 Company Announcement",
+        "description": "NEW YORK, Aug. 12, 2020 \/PRNewswire\/ -- How Americans vacation looks different than it has in past years but that doesn't mean planning a trip isn't possible. CheapOair, the travel experience experts, offers insight into a few of their favorite and safest National Parks destinations across the count...",
+        "url": "https:\/\/markets.ft.com\/data\/announce\/detail?dockey=600-202008121342PR_NEWS_USPRX____NY90473-1",
+        "author": "PR Newswire",
+        "image": "https:\/\/mma.prnewswire.com\/media\/509239\/CheapOair_Logo.jpg",
+        "language": "en",
+        "category": ["hague", "stockholm"],
+        "published": "2020-08-12 17:42:00 +0000"
+    }, {
+        "id": "64f75f76-3a64-48a3-8df6-8c8bb3cec952",
+        "title": "Blowing Agents Market to Reach USD 2.36 Billion by 2027 | Reports and Data",
+        "description": "New York, Aug. 12, 2020 (GLOBE NEWSWIRE) -- The Global\u00a0Blowing Agents Market\u00a0is forecast to reach USD 2.36 Billion by 2027, according to a new report by Reports and Data. Growing demand for polymeric foams, especially polyurethane foams, is driving demand for blowing agents, especially rapid growth ...",
+        "url": "http:\/\/feeds.benzinga.com\/~r\/benzinga\/analyst-ratings\/~3\/SE5_QJxya7s\/blowing-agents-market-to-reach-usd-2-36-billion-by-2027-reports-and-data",
+        "author": "Globe Newswire",
+        "image": "None",
+        "language": "en",
+        "category": ["finance"],
+        "published": "2020-08-12 17:28:22 +0000"
+    }, {
+        "id": "1cb85b53-bcde-405a-8e7d-80e0f906fb84",
+        "title": "Progressives Killed Amazon\u2019s Deal in New York. Is Industry City Next?",
+        "description": "The fight over a rezoning plan in Brooklyn has pitted progressives and mainstream Democrats against each other....",
+        "url": "https:\/\/www.nytimes.com\/2020\/08\/12\/nyregion\/industry-city-zoning-amazon-nyc.html",
+        "author": "Emma G. Fitzsimmons",
+        "image": "https:\/\/static01.nyt.com\/images\/2020\/08\/07\/nyregion\/00industrycity1\/00industrycity1-facebookJumbo.jpg",
+        "language": "en",
+        "category": ["general"],
+        "published": "2020-08-12 17:27:06 +0000"
+    }, {
+        "id": "826ba06b-c1cf-415c-a343-e9a727c7d471",
+        "title": "41% of Millennial Travel Credit Cardholders Closed Their Card Due to Pandemic, ValuePenguin Survey Finds \u2013 Company Announcement",
+        "description": "NEW YORK, Aug. 12, 2020 \/PRNewswire\/ --\u00a0Consumers are generally traveling less frequently thanks to the pandemic, which is affecting how people use (or don't use) their travel rewards credit cards. With 46% of consumers carrying a travel rewards credit card, many are thinking about what will happen ...",
+        "url": "https:\/\/markets.ft.com\/data\/announce\/detail?dockey=600-202008121325PR_NEWS_USPRX____CL90487-1",
+        "author": "PR Newswire",
+        "image": "None",
+        "language": "en",
+        "category": ["hague", "stockholm"],
+        "published": "2020-08-12 17:25:00 +0000"
+    }, {
+        "id": "42befe8b-85d2-4ea1-9488-09f21b9e12b5",
+        "title": "Animated 'Harriet the Spy' TV Show Coming to Apple TV+",
+        "description": "Apple signed a series order for \"Harriet the Spy,\" an upcoming adaptation of the classic children's novel that chronicles the adventures of the tomato sandwich-loving 11-year-old Harriet M. Welsch.\n\n\nSet in 1960s New York when the original book was published, the new series will be voiced by a star-...",
+        "url": "https:\/\/www.macrumors.com\/2020\/08\/12\/apple-tv-plus-harriet-the-spy\/",
+        "author": "Juli Clover",
+        "image": "None",
+        "language": "en",
+        "category": ["technology"],
+        "published": "2020-08-12 17:24:21 +0000"
+    }, {
+        "id": "11eb9d58-5bc6-4ebe-be2b-58f39f0a514a",
+        "title": "NY health chief Zucker claims hospitals had enough PPE during COVID-19 crisis",
+        "description": "New York's top health chief bizarrely claimed Wednesday that the state's hospitals had enough personal protective equipment for nurses and doctors during the height of the coronavirus pandemic \u2013 de\u2026...",
+        "url": "https:\/\/nypost.com\/2020\/08\/12\/ny-health-chief-claims-hospitals-had-enough-ppe-during-covid-19-crisis\/",
+        "author": "@nypmetro",
+        "image": "https:\/\/nypost.com\/wp-content\/uploads\/sites\/2\/2020\/08\/200812-howard-zucker.jpg?quality=90&strip=all&w=680&h=356&crop=1",
+        "language": "en",
+        "category": ["general"],
+        "published": "2020-08-12 17:23:48 +0000"
+    }, {
+        "id": "da94ffcc-8a55-45d2-ba19-9f060bb5e44f",
+        "title": "Dr. Robert Redfield Interviewed on WebMD \u2013 Company Announcement",
+        "description": "NEW YORK, Aug. 12, 2020 \/PRNewswire\/ --\u00a0Dr. Robert Redfield, Director of the Centers for Disease Control and Prevention (CDC), appeared on WebMD, the world's leading source for trustworthy medical information and timely health news, today, Wednesday, August 12, speaking with Dr. John Whyte, WebMD's ...",
+        "url": "https:\/\/markets.ft.com\/data\/announce\/detail?dockey=600-202008121323PR_NEWS_USPRX____NY90452-1",
+        "author": "PR Newswire",
+        "image": "None",
+        "language": "en",
+        "category": ["hague", "stockholm"],
+        "published": "2020-08-12 17:23:00 +0000"
+    }, {
+        "id": "497483b8-5e8b-48c6-819a-82fbf4089116",
+        "title": "Prosecutors charge 3 with threatening women in R. Kelly case",
+        "description": "NEW YORK (AP) \u2014 Federal prosecutors announced charges Wednesday against three men accused of threatening and intimidating women who have accused R&B singer R. Kelly of abuse, including one man...",
+        "url": "https:\/\/www.stltoday.com\/news\/national\/prosecutors-charge-3-with-threatening-women-in-r-kelly-case\/article_f0b0fee1-0708-50f8-abeb-a8c94fe301b2.html",
+        "author": "JIM MUSTIAN Associated Press",
+        "image": "https:\/\/bloximages.newyork1.vip.townnews.com\/stltoday.com\/content\/tncms\/assets\/v3\/editorial\/8\/bd\/8bd7a407-51c8-58d1-a805-7ceb0003e2bb\/5f342724ccdbc.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+        "language": "en",
+        "category": ["entertainment"],
+        "published": "2020-08-12 17:08:41 +0000"
+    }, {
+        "id": "3e9363d4-5771-4f5c-ac33-d7ea688aa758",
+        "title": "McKool Smith Secures $506 Million Patent Infringement Verdict For PanOptis Against Apple \u2013 Company Announcement",
+        "description": "NEW YORK, Aug. 12, 2020 \/PRNewswire\/ --\u00a0McKool Smith, along with Irell & Manella LLP, secured a $506,200,000 patent infringement verdict on behalf of Optis Wireless Technology, LLC, Optis Cellular Technology, LLC, Unwired Planet, LLC, Unwired Planet International Limited, and PanOptis Patent Managem...",
+        "url": "https:\/\/markets.ft.com\/data\/announce\/detail?dockey=600-202008121308PR_NEWS_USPRX____NY90456-1",
+        "author": "PR Newswire",
+        "image": "https:\/\/mma.prnewswire.com\/media\/688442\/McKool_Smith_Logo.jpg",
+        "language": "en",
+        "category": ["hague", "stockholm"],
+        "published": "2020-08-12 17:08:00 +0000"
+    }, {
+        "id": "26d44a3c-2503-4bcd-a3da-ddd262e52cde",
+        "title": "More Than 50 Cities And Counties Are Set To Offer One-on-One, Professional Financial Counseling Or Financial Navigation Services To Build Resident Financial Stability During COVID-19 \u2013 Company Announcement",
+        "description": "NEW YORK, Aug. 12, 2020 \/PRNewswire\/ --\u00a0National nonprofit organization the Cities for Financial Empowerment Fund (CFE Fund), in partnership with Bloomberg Philanthropies, Citi Foundation, JPMorgan Chase & Co., and the Wells Fargo Foundation, announced today that more than 50 city and county partner...",
+        "url": "https:\/\/markets.ft.com\/data\/announce\/detail?dockey=600-202008121307PR_NEWS_USPRX____NY90414-1",
+        "author": "PR Newswire",
+        "image": "None",
+        "language": "en",
+        "category": ["hague", "stockholm"],
+        "published": "2020-08-12 17:07:00 +0000"
+    }, {
+        "id": "a62d72c3-931e-4605-82b9-9123e16a5709",
+        "title": "Kanye West Met Recently With Presidential Son-In-Law Jared Kushner",
+        "description": "Kanye West met recently with White House adviser and presidential son-in-law Jared Kushner. The New York Times reported that Kushner......",
+        "url": "https:\/\/talkingpointsmemo.com\/news\/kanye-west-met-recently-with-presidential-son-in-law-jared-kushner",
+        "author": "Matt Shuham",
+        "image": "https:\/\/cdn.talkingpointsmemo.com\/wp-content\/uploads\/2020\/08\/GettyImages-1205196725-804x536.jpg",
+        "language": "en",
+        "category": ["politics", "regional"],
+        "published": "2020-08-12 17:06:38 +0000"
+    }, {
+        "id": "5662001d-5149-4d34-92ad-1158a4bf5c46",
+        "title": "A major egg producer has been accused of price gouging",
+        "description": "We've written about pork industry price-fixing, canned tuna industry price-fixing, and now we get to add yet another protein to our list of cost-manipulated foods: the common chicken egg. According to a tweet from the New York Attorney General's office, Hillandale Farms\u2014one of the largest egg produc...",
+        "url": "https:\/\/thetakeout.com\/new-york-egg-producer-accused-of-pandemic-price-fixing-1844697922",
+        "author": "Jacob Dean",
+        "image": "None",
+        "language": "en",
+        "category": ["food", "lifestyle"],
+        "published": "2020-08-12 17:06:00 +0000"
+    }, {
+        "id": "38a8a372-e2e0-4272-8d71-a8859bc062f7",
+        "title": "ROSEN, A LEADING LAW FIRM, Reminds Ideanomics, Inc. Investors of Important Deadline in Securities Class Action; Encourages Investors with Losses in Excess of $50K to Contact Firm \u2013 IDEX",
+        "description": "NEW YORK, Aug. 12, 2020 (GLOBE NEWSWIRE) -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of Ideanomics, Inc. (NASDAQ:IDEX) between March 20, 2020 and June 25, 2020, inclusive (the \"Class Period\"), of the important August 27, 2020 lead plaintiff deadline in ...",
+        "url": "http:\/\/feeds.benzinga.com\/~r\/benzinga\/news\/~3\/0gxDuWWXi5o\/rosen-a-leading-law-firm-reminds-ideanomics-inc-investors-of-important-deadline-in-securities-clas",
+        "author": "Globe Newswire",
+        "image": "None",
+        "language": "en",
+        "category": ["finance"],
+        "published": "2020-08-12 17:04:27 +0000"
+    }, {
+        "id": "afb5664f-bbaf-4f40-8b01-45f6432974ad",
+        "title": "ROSEN, A TRUSTED AND TOP RANKED FIRM, Reminds Casper Sleep Inc. Investors of Important Deadline in Securities Class Action \u2013 CSPR",
+        "description": "NEW YORK, Aug. 12, 2020 (GLOBE NEWSWIRE) -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of Casper Sleep Inc. (NYSE:CSPR) pursuant and\/or traceable to the Company's initial public offering conducted on or about February 7, 2020 (the \"IPO\" or \"Offering\") of ...",
+        "url": "http:\/\/feeds.benzinga.com\/~r\/benzinga\/news\/~3\/jtZo8w5_Lh4\/rosen-a-trusted-and-top-ranked-firm-reminds-casper-sleep-inc-investors-of-important-deadline-in-se",
+        "author": "Globe Newswire",
+        "image": "None",
+        "language": "en",
+        "category": ["finance"],
+        "published": "2020-08-12 17:00:10 +0000"
+    }, {
+        "id": "5f84bfd5-fa95-4ed1-a954-07996edb93cd",
+        "title": "Inc. Named Ocrolus 30th Fastest Growing Private Company in America",
+        "description": "NEW YORK, Aug. 12, 2020 \/PRNewswire-PRWeb\/ -- Ocrolus, the leading human-in-the-loop infrastructure company that transforms documents into actionable data with over 99% accuracy,......",
+        "url": "https:\/\/www.benzinga.com\/pressreleases\/20\/08\/n17057355\/inc-named-ocrolus-30th-fastest-growing-private-company-in-america",
+        "author": "PRNewswire",
+        "image": "https:\/\/cdn.benzinga.com\/files\/imagecache\/bz2_opengraph_meta_image_400x300\/sites\/all\/themes\/bz2\/images\/bz-icon.png",
+        "language": "en",
+        "category": ["finance"],
+        "published": "2020-08-12 17:00:00 +0000"
+    }, {
+        "id": "0224f486-af4a-475a-b958-69e13407b716",
+        "title": "Charles Payne says executive decisions by liberal leaders are taking America's great cities backward",
+        "description": "New York City advocacy group warns homeless crisis, safety concerns will cause city to go bankrupt; reaction from Charles Payne, host of 'Making Money' on Fox Business Network....",
+        "url": "https:\/\/video.foxnews.com\/v\/6180532803001\/",
+        "author": "foxnews",
+        "image": "https:\/\/cf-images.us-east-1.prod.boltdns.net\/v1\/static\/694940094001\/f6513ab3-1fa1-4034-8da4-e1bfd18f1edb\/ea1e57a5-c87e-400d-a3e2-b08a02eacba4\/1280x720\/match\/image.jpg",
+        "language": "en",
+        "category": ["general"],
+        "published": "2020-08-12 16:59:31 +0000"
+    }, {
+        "id": "359482ef-dc77-49de-b0d9-bc21715bf05b",
+        "title": "Three men accused in plots to threaten, harass victims in R. Kelly racketeering case in New York",
+        "description": "Three men have been charged in federal court in New York with attempting to \"intimidate, threaten or corruptly influence\" alleged victims in the racketeering case against singer R. Kelly....",
+        "url": "https:\/\/www.chicagotribune.com\/news\/criminal-justice\/ct-r-kelly-victim-harassment-charges-20200812-2pe56tnxlbd4vkzqmjxazub6k4-story.html",
+        "author": "Jason Meisner",
+        "image": "https:\/\/www.chicagotribune.com\/resizer\/HYRVWgDsEC13dEU2M7TIyM6oyJI=\/1200x0\/top\/www.trbimg.com\/img-56f02a81\/turbine\/chi-default-open-graph-ct-logo\/1200\/1200x650",
+        "language": "en",
+        "category": ["regional"],
+        "published": "2020-08-12 16:49:54 +0000"
+    }, {
+        "id": "80f05f3f-759c-4461-a258-9a22e23ff09b",
+        "title": "Statement from Hillandale Farms in Response to New York Attorney General Announcement \u2013 Company Announcement",
+        "description": "NEW YORK--(BUSINESS WIRE)--Aug. 12, 2020-- Hillandale Farms unequivocally denies the allegations that it gouged the prices charged for eggs during the COVID-19 pandemic. We are a family-owned and operated business that has been selling eggs since the late 1950s. As one of the larger egg producers in...",
+        "url": "https:\/\/markets.ft.com\/data\/announce\/detail?dockey=600-202008121247BIZWIRE_USPRX____BW5591-1",
+        "author": "Business Wire",
+        "image": "https:\/\/markets.ft.com\/data\/images\/pulse",
+        "language": "en",
+        "category": ["hague", "stockholm"],
+        "published": "2020-08-12 16:47:00 +0000"
+    }, {
+        "id": "45dc3d95-e559-49f8-a1d4-bb92c6b83343",
+        "title": "Stephen 'tWitch' Boss comments on his experience at 'The Ellen DeGeneres Show' - CNN",
+        "description": "Stephen 'tWitch' Boss comments on his experience at 'The Ellen DeGeneres Show'\u00a0\u00a0CNNHoward Stern Gives Ellen DeGeneres Advice: \"Be a P---k\" | Daily Pop | E! News\u00a0\u00a0E! NewsEllen DeGeneres has a right to be angry\u00a0\u00a0New York Daily News'Ellen DeGeneres Show' DJ Stephen 'tWitch' Boss Breaks His Silence on A...",
+        "url": "https:\/\/news.google.com\/__i\/rss\/rd\/articles\/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMC8wOC8xMi9lbnRlcnRhaW5tZW50L2VsbGVuLWRlZ2VuZXJlcy1zdGVwaGVuLWJvc3MvaW5kZXguaHRtbNIBWGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjAvMDgvMTIvZW50ZXJ0YWlubWVudC9lbGxlbi1kZWdlbmVyZXMtc3RlcGhlbi1ib3NzL2luZGV4Lmh0bWw?oc=5",
+        "author": "google",
+        "image": "None",
+        "language": "en",
+        "category": ["general"],
+        "published": "2020-08-12 16:38:00 +0000"
+    }, {
+        "id": "1e266486-0730-43d9-8bca-9c98d8ddba23",
+        "title": "EQS-News: Rapid Nutrition PLC: Rapid Nutrition Welcomed Into Entrepreneurs Programme for Business Innovationby Rapid Nutrition PLC [RAP:SWX]",
+        "description": "EQS Group-News: Rapid Nutrition PLC\n\n\n \/ Key word(s): Miscellaneous\n\n\nRapid Nutrition PLC: Rapid Nutrition Welcomed Into Entrepreneurs Programme for Business Innovation \n12.08.2020 \/ 18:32 \nRapid Nutrition Welcomed Into Entrepreneurs Programme for Business Innovation\nNew York, NY via NEWMEDIAWIRE --...",
+        "url": "https:\/\/markets.ft.com\/data\/announce\/detail?dockey=600-202008121232DGAP____CORPNEWS_corporate_1115765_en-1",
+        "author": "EQS Newswire",
+        "image": "None",
+        "language": "en",
+        "category": ["hague", "stockholm"],
+        "published": "2020-08-12 16:32:00 +0000"
+    }, {
+        "id": "f0cd939d-6aa3-464b-9116-6d61b6e0081b",
+        "title": "Prosecutors charge 3 with threatening women in R. Kelly case",
+        "description": "NEW YORK (AP) \u2014 Federal prosecutors announced charges Wednesday against three men accused of threatening and intimidating women who have accused R&B singer R. Kelly of abuse, including one man suspected of setting fire to a vehicle in Florida. A longtime friend of the indicted singer offered to pay ...",
+        "url": "https:\/\/www.seattletimes.com\/entertainment\/prosecutors-charge-3-with-threatening-women-in-r-kelly-case\/",
+        "author": "JIM MUSTIAN",
+        "image": "None",
+        "language": "en",
+        "category": ["world"],
+        "published": "2020-08-12 16:31:39 +0000"
+    }, {
+        "id": "d5eb165d-4f5f-47da-ad68-cf1bb0c19090",
+        "title": "ROSEN, A GLOBALLY RECOGNIZED FIRM, Encourages Pilgrim's Pride Corporation Investors to Contact Firm Before the September 4 Deadline in Class Action Seeking Recovery of Investor Losses \u2013 PPC",
+        "description": "NEW YORK, Aug. 12, 2020 (GLOBE NEWSWIRE) -- Rosen Law Firm, a global investor rights law firm, reminds purchasers of the securities of Pilgrim's Pride Corporation (NASDAQ:PPC) between February 9, 2017 and June 3, 2020, inclusive (the \"Class Period\"), of the important September 4, 2020 lead plaintiff...",
+        "url": "http:\/\/feeds.benzinga.com\/~r\/benzinga\/news\/~3\/Q7ySCDEPQZE\/rosen-a-globally-recognized-firm-encourages-pilgrims-pride-corporation-investors-to-contact-firm-b",
+        "author": "Globe Newswire",
+        "image": "None",
+        "language": "en",
+        "category": ["finance"],
+        "published": "2020-08-12 16:30:10 +0000"
+    }, {
+        "id": "34c811cf-911d-491d-aff8-d9523c77d057",
+        "title": "'You don't bet against New York': Why the city's top-selling broker Ryan Serhant sees a speedy recovery",
+        "description": "Ryan Serhant is the star of \"Million Dollar Listing New York\" and he's one of the city's top real estate agents.\u00a0\nDespite the market coming to a halt in March and the mass exodus of city dwellers between March and May, Serhant sees a quick comeback for NYC real estate and doesn't expect the pandemic...",
+        "url": "http:\/\/feedproxy.google.com\/~r\/businessinsider\/warroom\/~3\/XfPOCVVpp08\/ryan-serhant-sees-speedy-recovery-for-manhattan-real-estate-2020-8",
+        "author": "Natasha Solo-Lyons",
+        "image": "None",
+        "language": "en",
+        "category": ["general"],
+        "published": "2020-08-12 16:28:50 +0000"
+    }, {
+        "id": "e366f799-5d61-4921-a858-e6c94f7953c6",
+        "title": "Lucille Ball Comedy Festival goes virtual in its 29th year",
+        "description": "The festival, presented by the National Comedy Center in Jamestown, New York, will stream conversations with the artists over three weekends, starting Friday and running through Aug. 30....",
+        "url": "https:\/\/www.chicagotribune.com\/entertainment\/ct-ent-lucille-ball-comedy-festival-2020-20200812-s7m5wcjcqfh4hjavgi5th26ifi-story.html",
+        "author": "@chicagotribune",
+        "image": "https:\/\/www.chicagotribune.com\/resizer\/k08YZ_OVzouq6NNDOgCLOCavqes=\/1200x0\/top\/cloudfront-us-east-1.images.arcpublishing.com\/tronc\/MOFGNRKTQCYOM3BBLEO2RL73WM.aspx",
+        "language": "en",
+        "category": ["food", "lifestyle"],
+        "published": "2020-08-12 16:17:23 +0000"
+    }, {
+        "id": "5571c171-6c9c-447e-bb26-5b31968bd6f6",
+        "title": "Global warming makes tropical soils leak CO2, could become major climate threat: Study - The Straits Times",
+        "description": "Global warming makes tropical soils leak CO2, could become major climate threat: Study\u00a0\u00a0The Straits TimesCarbon dioxide loss from tropical soils increases on warming\u00a0\u00a0Nature.comGlobal warming makes tropical soils leak carbon dioxide\u00a0\u00a0Phys.orgGlobal Warming Could Unlock Carbon From Tropical Soil\u00a0\u00a0The...",
+        "url": "https:\/\/news.google.com\/__i\/rss\/rd\/articles\/CBMid2h0dHBzOi8vd3d3LnN0cmFpdHN0aW1lcy5jb20vd29ybGQvZ2xvYmFsLXdhcm1pbmctbWFrZXMtdHJvcGljYWwtc29pbHMtbGVhay1jbzItY291bGQtYmVjb21lLW1ham9yLWNsaW1hdGUtdGhyZWF0LXN0dWR50gEA?oc=5",
+        "author": "google",
+        "image": "None",
+        "language": "en",
+        "category": ["regional"],
+        "published": "2020-08-12 16:16:41 +0000"
+    }, {
+        "id": "2529c92a-decb-47aa-afc1-82e8996bd0f3",
+        "title": "Three arrested in scheme to threaten, bribe alleged victims of R. Kelly",
+        "description": "R. Kelly walks with supporters into the Daley Center in Chicago for a hearing in a child support case in March 2019. | Ashlee Rezin Garcia\/Sun-Times file photo\nOne man allegedly discussed paying a victim $500,000 to keep her from cooperating with the feds. Another threatened to reveal sexually photo...",
+        "url": "https:\/\/chicago.suntimes.com\/2020\/8\/12\/21365059\/r-kelly-case-three-arrested-scheme-threaten-bribe-alleged-victims",
+        "author": "Jon Seidel",
+        "image": "None",
+        "language": "en",
+        "category": ["regional"],
+        "published": "2020-08-12 16:12:49 +0000"
+    }, {
+        "id": "acef6493-fffc-458c-9786-a20e3a14338e",
+        "title": "What the scarf-mask tells us about fashion in the new normal",
+        "description": "As seen on everyone from Sarah Jessica Parker to Amber Heard, this aesthetic and virus-preventing statement is a win-winThe first must-have look of the \"new normal\" doesn't have a designer label, or a hefty price tag. In fact, you probably already have what you need in a drawer somewhere. And while ...",
+        "url": "https:\/\/www.theguardian.com\/fashion\/2020\/aug\/12\/scarf-mask-fashion-new-normal-sarah-jessica-parker-sienna-miller",
+        "author": "Jess Cartner-Morley",
+        "image": "None",
+        "language": "en",
+        "category": ["world"],
+        "published": "2020-08-12 16:01:29 +0000"
+    }],
+    "page": 1
 }
